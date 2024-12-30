@@ -1,0 +1,10 @@
+.pyc
+.ipynb_checkpoints
+dataset/*
+!dataset/.gitkeep
+models/*
+!models/.gitkeep
+images
+yolo*
+datasets
+runs*
